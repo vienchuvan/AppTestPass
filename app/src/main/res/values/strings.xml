@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">VaultPass</string>
+    <string name="welcome_message">Welcome to VaultPass</string>
+    <string name="add_new_password">Add New Password</string>
+    <string name="unlock_vault">Unlock your Vault</string>
+    <string name="enter_master_password">Enter Master Password</string>
+    <string name="unlock">Unlock</string>
+    <string name="site_name">Site Name</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="save_password">Save Password</string>
+    <string name="setup_master_password">Setup Master Password</string>
+    <string name="setup_description">This password will be used to encrypt all your data.</string>
+    <string name="create_master_password">Create Master Password</string>
+    <string name="confirm_master_password">Confirm Master Password</string>
+    <string name="set_up_now">Set Up Now</string>
+    <string name="edit_password">Edit Password</string>
+    <string name="action_settings">Settings</string>
+</resources>
